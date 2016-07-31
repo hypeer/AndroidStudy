@@ -68,12 +68,12 @@
       <option name="assignedIssuesOnly" value="false" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password />
-      <token>df93df98df92df92df99df9bdf9bdf9bdf9cdf98dfc9df9ddf9adf93dfcedf92df93dfcedf9ddf98dfc8df9edfcedf92df99df98df9edfcbdf92df93dfc8dfc9df98df9fdf9fdf9adf9edfccdf9edf9f</token>
+      <token>df9bdfc8df9fdf9bdf9adf9edf9cdf9adfc8df99dfccdf98df9edfcbdfc8df92df93df9ddf9ddfcbdf99df9cdf93df9edfcbdf9cdf93df92dfcedfcedfc9df9bdfcbdfccdfccdf92dfcfdfcedf9bdfc9</token>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
       <option name="repoAuthor" value="hypeer" />
-      <option name="repoName" value="android-study" />
+      <option name="repoName" value="AndroidStudy" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
